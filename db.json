@@ -1,8 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "comprobantes": [
+    { "id": 1, "monto": 120.0, "tipo": POS, "fecha": 2020-11-01},
+    { "id": 2, "monto": 200.0, "tipo": Mercado Pago, "fecha": 2020-12-01}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
