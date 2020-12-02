@@ -3,11 +3,13 @@
     { "id": 1, "monto": 120.0, "tipo": "POS", "fecha": "2020-11-01"},
     { "id": 2, "monto": 200.0, "tipo": "Mercado Pago", "fecha": "2020-12-01"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "proveedores": [
+    { "id": 1, "nombre": "Estación de Nafta 1"},
+    { "id": 2, "nombre": "Taller Mecánico"},
+    { "id": 3, "nombre": "Casa de Respuestos Z"}
   ],
-  "profile": {
-    "name": "typicode"
+  "respuesta": {
+    "status": "OK",
+    "error": "ERROR"
   }
 }
