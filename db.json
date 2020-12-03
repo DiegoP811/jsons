@@ -10,7 +10,7 @@
   ],
   "respuesta": {
     "status": "OK",
-    "error": "ERROR"
+    "message": "ERROR"
   },
   "W3": {
     "status": "OK",
