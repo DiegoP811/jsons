@@ -11,5 +11,9 @@
   "respuesta": {
     "status": "OK",
     "error": "ERROR"
+  },
+  "W3": {
+    "status": "OK",
+    "message": "Realizado con éxito"
   }
 }
